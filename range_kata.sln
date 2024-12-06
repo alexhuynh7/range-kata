@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "range_kata", "range_kata.csproj", "{9BCA332E-92F6-4776-8299-B9F608B6ADAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "range_api_kata", "range_api_kata\WebApplication1\range_api_kata.csproj", "{1277BEB1-8667-4099-9342-876B2BA1BBB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BCA332E-92F6-4776-8299-B9F608B6ADAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCA332E-92F6-4776-8299-B9F608B6ADAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCA332E-92F6-4776-8299-B9F608B6ADAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCA332E-92F6-4776-8299-B9F608B6ADAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1277BEB1-8667-4099-9342-876B2BA1BBB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1277BEB1-8667-4099-9342-876B2BA1BBB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1277BEB1-8667-4099-9342-876B2BA1BBB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1277BEB1-8667-4099-9342-876B2BA1BBB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {799BC869-41BE-4CD0-80D2-002C23173295}
+	EndGlobalSection
+EndGlobal
